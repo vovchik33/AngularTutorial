@@ -53,6 +53,7 @@ gulp.task('watch', function(){
 });
 
 gulp.task('clean', function(){
+	console.log("CLEAN BUILD");
 	gulp.src('./build', {read: false})
 		.pipe(clean());
 });
