@@ -1,0 +1,9 @@
+body {
+	background: linear-gradient(45deg, #ccc, #663);
+	
+	opacity: .5;
+    box-sizing: border-box;
+    transform: scale(.5);
+    display: flex;
+	
+}

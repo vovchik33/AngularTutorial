@@ -1,0 +1,959 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"livereload",
+				"livereload_plugin	Create new LiveReload plugin"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"bets",
+				"betsHistoryArray"
+			],
+			[
+				"sle",
+				"selectedChipId"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ar",
+				"argumentDemo"
+			],
+			[
+				"onl",
+				"onload	Attr"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"height",
+				"height"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"bac",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/index.html",
+			"settings":
+			{
+				"buffer_size": 197,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/css/common.css",
+			"settings":
+			{
+				"buffer_size": 148,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 1408,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"togg",
+				"View: Toggle Menu"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"LiveReload: Enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"LiveReload: Enable/disable plugins",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"S",
+				"Set Syntax: HTML"
+			],
+			[
+				"PackageI",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Workspace/FrontEnd/AngularTutorial",
+		"/D/Workspace/FrontEnd/AngularTutorial/src",
+		"/D/Workspace/FrontEnd/AngularTutorial/src/css"
+	],
+	"file_history":
+	[
+		"/D/Workspace/FrontEnd/AngularTutorial/build/index.html",
+		"/D/Workspace/FrontEnd/AngularTutorial/src/css/common.css",
+		"/D/Workspace/FrontEnd/AngularTutorial/build/css/bundle.min.css",
+		"/C/Users/vladimirkr/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/D/Workspace/FrontEnd/AngularTutorial/app/css/common.css",
+		"/C/Users/vladimirkr/AppData/Roaming/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+		"/D/Workspace/FrontEnd/Roulette/package.json",
+		"/D/Workspace/FrontEnd/Roulette/css/table.css",
+		"/D/Workspace/FrontEnd/Roulette/app/index.html",
+		"/D/Workspace/FrontEnd/Roulette/app/js/limits.js",
+		"/D/Workspace/FrontEnd/Roulette/app/js/history.js",
+		"/D/Workspace/FrontEnd/Roulette/app/js/buttons.js",
+		"/D/Workspace/FrontEnd/Roulette/app/js/timer.js",
+		"/D/Workspace/FrontEnd/Roulette/app/js/chips.js",
+		"/D/Workspace/FrontEnd/Roulette/app/js/table.js",
+		"/D/Workspace/FrontEnd/Roulette/gulpfile.js",
+		"/D/Defect #1717 17082016 URL.txt",
+		"/D/Tutorials/EX.UA/Lynda.com/JS/91530389.txt",
+		"/D/Tutorials/EX.UA/934076.txt",
+		"/D/Workspace/FrontEnd/Roulette/index.html",
+		"/D/Workspace/FrontEnd/Roulette/app/gameRoulette.html",
+		"/D/Workspace/FrontEnd/Roulette/js/table.js",
+		"/C/Users/vladimirkr/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/Workspace/FrontEnd/Roulette/js/buttons.js",
+		"/C/Users/vladimirkr/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/vladimirkr/AppData/Local/LiveReload/Logs/LiveReload_2016_08_06_123225.txt",
+		"/D/Workspace/FrontEnd/Roulette/app/css/bundle.min.css",
+		"/C/Users/vladimirkr/AppData/Roaming/Skype/My Skype Received Files/Anti-money laundering.txt",
+		"/C/Users/vladimirkr/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/D/FrontEnd/Workspace/Lesson_0001/app/bundle.css",
+		"/C/Users/vladimirkr/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/KU56I9NQ/msglistener 4.txt",
+		"/C/Users/vladimirkr/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/KU56I9NQ/msglistener 3.txt",
+		"/D/TEMP/GOOD.txt",
+		"/D/TEMP/BAD.txt",
+		"/C/Users/vladimirkr/Desktop/New Text Document (7).txt",
+		"/C/Users/vladimirkr/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/KU56I9NQ/msglistener 2.txt",
+		"/C/Users/vladimirkr/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/KU56I9NQ/astonlog1.txt",
+		"/C/Users/vladimirkr/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/KU56I9NQ/msglistener 1.txt",
+		"/D/Workspace/tvkioskapp/build/update.xml",
+		"/C/Users/vladimirkr/Desktop/CREDENTIALS.txt",
+		"//ua-fs/userprofiles/vladimirkr/Documents/My Received Files/New Text Document.txt",
+		"/C/Users/vladimirkr/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/KU56I9NQ/astonlog3.txt",
+		"//il-netapp1/PTV/data/versions/TVGameController/16.01.08/Readme.txt",
+		"/D/Workspace/TVGameControllerReleases/16.01.08/Readme.txt",
+		"/C/Users/vladimirkr/Desktop/New Text Document (4).txt",
+		"/C/Users/vladimirkr/AppData/Local/Microsoft/Windows/INetCache/Content.Outlook/HZ32HP78/exception.txt",
+		"/C/Workspace/Playtech/tvdirectorappscheduler/readme.txt",
+		"//il-netapp1/PTV/data/versions/TVGameController/16.01.07/Readme.txt",
+		"/D/Workspace/HTMLLessons/lesson_0006/index.html",
+		"/C/Users/vladimirkr/Desktop/New Text Document (6).txt",
+		"//il-netapp1/PTV/data/versions/TVGameController/16.01.03 Premier/Readme.txt",
+		"/D/Workspace/TVGameControllerReleases/16.01.04 Premier gameType30/Readme.txt",
+		"/D/Workspace/TVGameControllerReleases/16.01.04 ClubRoulette/Readme.txt",
+		"/C/Users/vladimirkr/AppData/Local/Microsoft/Windows/INetCache/IE/OKX3FNSI/mili_log[1].txt",
+		"/C/Users/vladimirkr/Desktop/New Microsoft Publisher Document.txt",
+		"/D/Company.txt",
+		"/D/Workspace/TVGameControllerReleases/16.01.02 Premier/Readme.txt",
+		"/C/Users/vladimirkr/Desktop/readme.txt",
+		"/D/run.bat",
+		"/D/Futsal Rules.txt",
+		"/D/Workspace/HTMLLessons/lesson_0005/style.sass",
+		"/D/Workspace/HTMLLessons/lesson_0005/style.css",
+		"/C/Workspace/Playtech/tvdirectorapp/build/logs/TVDirectorAppDEBUG.20160208.log",
+		"/C/Users/vladimirkr/Desktop/flashlog.txt",
+		"/C/Users/vladimirkr/mm.cfg",
+		"/C/Users/vladimirkr/AppData/Roaming/Microsoft/Windows/Recent/flashlog.txt.lnk",
+		"/C/Users/vladimirkr/AppData/Roaming/Sublime Text 3/Packages/Goto-CSS-Declaration/Default (Windows).sublime-keymap",
+		"/C/Users/vladimirkr/AppData/Roaming/Sublime Text 3/Packages/User/LiveReload.sublime-settings",
+		"/D/Workspace/HTMLLessons/lesson_0005/index.html",
+		"/c/users/vladim~1/appdata/local/temp/gistfile1.as",
+		"/C/Users/vladimirkr/AppData/Roaming/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/D/Workspace/HTMLLessons/lesson_0004/index.html",
+		"/D/Workspace/HTMLLessons/lesson_0003/index.html",
+		"/D/Workspace/HTMLLessons/lesson_0002/index.html",
+		"/D/Workspace/HTMLLessons/lesson_0002.html",
+		"/D/Workspace/HTMLLessons/lesson_0001.html",
+		"/C/Users/vladimirkr/IdeaProjects/TVGameController/src/main/actionscript/TVGameController.xml",
+		"/C/Users/vladimirkr/IdeaProjects/TVGameController/build.gradle",
+		"/D/temphttp/src/css/main.css",
+		"/C/Users/vladimirkr/AppData/Roaming/Skype/My Skype Received Files/html5_lobby/html5_lobby/dist/iceshow_lobby_15.4.1.4/scripts/serverConnection.js",
+		"/D/temphttp/src/index.html",
+		"/D/temphttp/src/doc/usage.md",
+		"/C/Users/vladimirkr/AppData/Roaming/Sublime Text 3/Packages/User/Emmet.sublime-settings"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"D:\\Workspace\\HTMLLessons\\lesson_0005"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"require",
+			"(''))\n",
+			"!",
+			"tooltip",
+			"background-image",
+			"doll",
+			"updateTimer",
+			"loginRequest()",
+			"').",
+			"nick",
+			"var platform=\"html\";\n",
+			"var",
+			"clip",
+			";\n",
+			"3px",
+			"wager",
+			"png",
+			"updateTable",
+			"clickSpot",
+			"setSty",
+			"chip",
+			"/\";\n",
+			"clickSpot",
+			"tooltip",
+			"realBalance",
+			"$(",
+			"updateTable",
+			"clickSpot",
+			"click",
+			"tooltip",
+			");\n",
+			"spotsArray",
+			"parent",
+			"removeClass",
+			"grey",
+			"mouseOutChipButton",
+			"chipsContainer",
+			"());\n",
+			"tableContainer",
+			"mouseOverSplitSpot",
+			"chip",
+			"highlight",
+			"mouseOverSplitSpot",
+			"highlight",
+			"transparent",
+			"cellSize",
+			",\"top\":\"\", \"left\":\"\" ,\"width\":\"\", \"height\":\"\"},",
+			"cursor",
+			"pointer",
+			"height",
+			"46",
+			"sc3",
+			"sc2",
+			"opacity",
+			"   height:768px; /* or whatever width you want. */\n",
+			"transform",
+			"$(\".",
+			"46px",
+			"h2",
+			"default",
+			"= ",
+			"gulp",
+			"rename",
+			"CDD",
+			"hich of the following is correct",
+			"ction would you take",
+			"What action would you take",
+			"Could this be tipping",
+			"Could this be tipping off",
+			"Which of the following should Andrew do?",
+			"Select two of the following options and then click the CONFIRM button",
+			"Which of the following information do we need to undertake identification checks?",
+			"require",
+			"\"\n",
+			"h",
+			"Hello",
+			"argumentDemo",
+			"argument",
+			"100",
+			"swf",
+			"relative"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"!",
+			",\"top\":\"0\", \"left\":\"0\" ,\"width\":\"1\", \"height\":\"1\"},",
+			"48",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 197,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								159,
+								159
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "18400719",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/css/common.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 148,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								130,
+								130
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										147,
+										148
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/curly_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										5,
+										6
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bs_sintax": "css",
+							"buffer_scroll_name": "7e3b479b",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								282,
+								282
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										288,
+										289
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										281,
+										282
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bs_sintax": "json",
+							"buffer_scroll_name": "ecd2162b",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1408,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								715,
+								715
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										874,
+										875
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										701,
+										702
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"bs_sintax": "plain text",
+							"buffer_scroll_name": "a16c7ea3",
+							"color_scheme": "Packages/User/Color Highlighter/themes/Twilight.tmTheme",
+							"spell_check": false,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 207.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 34.0
+	},
+	"pinned_build_system": "",
+	"project": "AngularTutorial.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 298.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
